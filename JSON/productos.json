@@ -1,0 +1,122 @@
+[
+    {
+        "id": "video-01",
+        "titulo": "2060 Super",
+        "imagen": "./img/Placas de video/2060-super.jpg",
+        "categoria": {
+            "nombre": "Placas de video",
+            "id": "placasDeVideo"
+        },
+        "precio": 130000
+    },
+    {
+        "id": "video-02",
+        "titulo": "3060 TI",
+        "imagen": "./img/Placas de video/3060-TI.jpg",
+        "categoria": {
+            "nombre": "Placas de video",
+            "id": "placasDeVideo"
+        },
+        "precio": 180000
+    },
+    {
+        "id": "video-03",
+        "titulo": "3070",
+        "imagen": "./img/Placas de video/3070.jpg",
+        "categoria": {
+            "nombre": "Placas de video",
+            "id": "placasDeVideo"
+        },
+        "precio": 210000
+    },
+    {
+        "id": "video-04",
+        "titulo": "5500 xt",
+        "imagen": "./img/Placas de video/5500 xt.jpg",
+        "categoria": {
+            "nombre": "Placas de video",
+            "id": "placasDeVideo"
+        },
+        "precio": 190000
+    },
+    {
+        "id": "video-05",
+        "titulo": "6900 xt",
+        "imagen": "./img/Placas de video/6900 xt.jpg",
+        "categoria": {
+            "nombre": "Placas de video",
+            "id": "placasDeVideo"
+        },
+        "precio": 240000
+    },
+    {
+        "id": "procesador-01",
+        "titulo": "intel I9",
+        "imagen": "./img/cpu/Procesador-IntelCorei9-12900K--5.2Ghz-AlderLake-1700-SinCooler_41360_1.jpeg",
+        "categoria": {
+            "nombre": "Procesadores",
+            "id": "procesadores"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "procesador-02",
+        "titulo": "Ryzen 5 4600G",
+        "imagen": "./img/cpu/Ryzen 5 4600G.jpg",
+        "categoria": {
+            "nombre": "Procesadores",
+            "id": "procesadores"
+        },
+        "precio": 90000
+    },
+    {
+        "id": "mouse-01",
+        "titulo": "Mouse G730",
+        "imagen": "./img/mouse/G703.jpg",
+        "categoria": {
+            "nombre": "Perifericos",
+            "id": "perifericos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "ram-01",
+        "titulo": "Ram hyperex",
+        "imagen": "./img/ram/Ram hyperex.jpg",
+        "categoria": {
+            "nombre": "Perifericos",
+            "id": "perifericos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "teclado-01",
+        "titulo": "K380",
+        "imagen": "./img/teclado/K380.jpg",
+        "categoria": {
+            "nombre": "Perifericos",
+            "id": "perifericos"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "auricular-01",
+        "titulo": "G733",
+        "imagen": "./img/auriculares/concepto-g733.jpg",
+        "categoria": {
+            "nombre": "Perifericos",
+            "id": "perifericos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "auricular-02",
+        "titulo": "G935",
+        "imagen": "./img/auriculares/sin-titulo-41-3e9fdbc27ae466934b16511673408634-1024-1024.jpg",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "perifericos"
+        },
+        "precio": 10000
+    }
+]
